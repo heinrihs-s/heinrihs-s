@@ -22,14 +22,10 @@ I build defensive security artifacts for critical-infrastructure environments: I
 - [IEC-104 Rulebook](https://github.com/heinrihs-s/iec104-rulebook) - YAML monitoring rules and baseline templates
 - [Zeek IEC-104 Lab](https://github.com/heinrihs-s/zeek-iec104-lab) - synthetic Zeek-style records and helper scripts
 
-## Tooling Vibe
 
-Python, Zeek-style logs, YAML rulebooks, SCADA/ICS lab data, OpenAI/Codex workflows, Claude Code-friendly repos, and lots of small reproducible artifacts.
-
-No live-grid theatrics. Simulated, defensive, explainable, and built so a human can review the decision.
 
 ## Elsewhere
 
 - Site / CV: [heinrihs.org](https://heinrihs.org)
-- Company route: securIT
+- Company route: securIT.lv
 - Base: Riga, Latvia
