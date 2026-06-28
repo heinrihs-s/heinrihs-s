@@ -21,6 +21,7 @@ I build defensive security artifacts for critical-infrastructure environments: I
 - [IEC-104 Threat Scenario Generator](https://github.com/heinrihs-s/IEC-60870-5-104-Threat-Scenario-Generator) - synthetic attack scenarios and lab artifacts for IDS evaluation
 - [IEC-104 Rulebook](https://github.com/heinrihs-s/iec104-rulebook) - YAML monitoring rules and baseline templates
 - [Zeek IEC-104 Lab](https://github.com/heinrihs-s/zeek-iec104-lab) - synthetic Zeek-style records and helper scripts
+- [CTF Writeups](https://github.com/heinrihs-s/CTF-writeups/tree/main/SANS-European-Championship-2026) - SANS European Championship 2026 notes in messy hacker style
 
 
 
