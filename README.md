@@ -29,6 +29,11 @@ I build defensive security artifacts for critical-infrastructure environments: I
 - [CTF Writeups](https://github.com/heinrihs-s/CTF-writeups/tree/main/SANS-European-Championship-2026) - SANS European Championship 2026 notes in messy hacker style
 - [LogSpotAI](https://github.com/heinrihs-s/LogSpotAI) - tiny OpenAI-assisted log review experiment for defensive triage
 
+## Public Vulnerability Research
+
+- [CVE-2026-62972 - BACnet Stack](https://github.com/bacnet-stack/bacnet-stack/security/advisories/GHSA-9hq3-w3pc-8385) - discovered and responsibly reported an out-of-bounds read in the lighting command decoder; publicly credited as reporter
+- [OpENer EtherNet/IP response-side buffer overflow](https://github.com/EIPStackGroup/OpENer/issues/576#issuecomment-4667180658) - co-discovered the remotely reachable defect in an independent report that was merged into issue #576; reproduced with AFL++/ASAN and developed regression-tested capacity guards for the serialization layer
+
 ## Working Style
 
 Small reproducible artifacts. Synthetic data. No live-grid theatrics.
