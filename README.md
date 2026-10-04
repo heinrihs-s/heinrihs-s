@@ -1,10 +1,8 @@
-[![Heinrihs Skrodelis — Privacy. Pixels. Paper.](assets/profile-header.svg)](https://heinrihs.org)
+[![Heinrihs Skrodelis — Security research. Useful tools.](assets/profile-header.svg)](https://heinrihs.org)
 
 I'm a cybersecurity researcher and builder in Latvia. I build privacy tools for AI, little interfaces with personality, and security research for industrial systems.
 
-Building in public on **[X / @heinrihs_s](https://x.com/heinrihs_s)** — experiments, progress and the bits that break along the way.
-
-[Website & CV](https://heinrihs.org) · [securIT](https://securit.lv) · **[Play with a dot →](https://heinrihs.org/dotsonpaper/#demo)**
+[Website & CV](https://heinrihs.org) · [X / @heinrihs_s](https://x.com/heinrihs_s) · [securIT](https://securit.lv) · **[Play with a dot →](https://heinrihs.org/dotsonpaper/#demo)**
 
 ## What I'm building
 
@@ -29,14 +27,14 @@ The demo uses synthetic data and a deterministic mock provider. CloakSpan is an 
 
 **Give your assistant a little desk space.**
 
-An open-source MCP and Home Assistant bridge that puts assistant replies on e-ink. Four companions, readable answers, and a little presence that stays on your desk after the chat window closes.
+An open-source MCP and Home Assistant bridge for assistant displays, including e-ink. Four switchable companions, animated thinking states, and readable replies.
 
 **[Try the interactive demo →](https://heinrihs.org/dotsonpaper/#demo)** · [Build your own](https://github.com/heinrihs-s/dots-on-paper#run-the-bridge) · [Explore the code](https://github.com/heinrihs-s/dots-on-paper)
 
 <details>
 <summary><b>Meet the dots: Artist, Curious, Bookish & Cool</b></summary>
 
-[![Dots on Paper — four colourful companions on a paper background](assets/dots-on-paper.png)](https://heinrihs.org/dotsonpaper/#demo)
+[![Dots on Paper — Artist, Curious, Bookish and Cool](assets/dots-on-paper.png)](https://heinrihs.org/dotsonpaper/#demo)
 
 Open the demo, switch companions, pick an example and replay the thinking state. A browser preview of the idea; the repository contains the bridge and rendering tools.
 
@@ -63,4 +61,4 @@ My security work focuses on SCADA/ICS, protocol-aware detection and AI-agent saf
 
 ---
 
-If you're building with CloakSpan or Dots on Paper, I'd like to see what you make. Follow the builds on **[X](https://x.com/heinrihs_s)** or bring a concrete idea to the project's issues.
+Ideas and feedback are welcome in each project's issues. You can also find me on **[X](https://x.com/heinrihs_s)**.

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" role="img" aria-labelledby="title desc">
-  <title id="title">Heinrihs Skrodelis — Privacy. Pixels. Paper.</title>
-  <desc id="desc">A warm paper banner with dark typography. A blue privacy boundary turns a small signal into a token, which travels to a smiling dot on a folded sheet.</desc>
+  <title id="title">Heinrihs Skrodelis — Security research. Useful tools.</title>
+  <desc id="desc">Heinrihs Skrodelis beside a blue privacy boundary, a scoped token and a companion display.</desc>
   <style>
     .eye { transform-box: fill-box; transform-origin: center; animation: wink 8s infinite; }
     @keyframes wink { 0%, 93%, 97%, 100% { transform: scaleY(1); } 95% { transform: scaleY(.12); } }
@@ -10,7 +10,7 @@
   <path d="M56 384H1384" fill="none" stroke="#d9ddd9" stroke-width="1.5"/>
   <path d="M56 57V89M56 57H88M1384 351V383M1352 383H1384" fill="none" stroke="#a9c2cc" stroke-width="2"/>
   <text x="72" y="205" fill="#182f3b" font-family="Georgia, 'Times New Roman', serif" font-size="70" letter-spacing="-2.6">Heinrihs Skrodelis</text>
-  <text x="75" y="268" fill="#3b5d6d" font-family="Arial, Helvetica, sans-serif" font-size="36" letter-spacing="-.65">Privacy. Pixels. Paper.</text>
+  <text x="75" y="268" fill="#3b5d6d" font-family="Arial, Helvetica, sans-serif" font-size="36" letter-spacing="-.65">Security research. Useful tools.</text>
   <g fill="none" stroke-linecap="round" stroke-linejoin="round">
     <path d="M859 221H901M1042 221H1104M1173 221H1220" stroke="#648a9c" stroke-width="2.5"/>
     <path d="m895 215 6 6-6 6M1098 215l6 6-6 6M1214 215l6 6-6 6" stroke="#648a9c" stroke-width="2.5"/>
@@ -22,8 +22,7 @@
     <g fill="#246b9a" stroke="none">
       <circle cx="1124" cy="221" r="3"/><circle cx="1138" cy="221" r="3"/><circle cx="1152" cy="221" r="3"/>
     </g>
-    <path d="M1240 145h74l35 35v108a16 16 0 0 1-16 16h-93a16 16 0 0 1-16-16V161a16 16 0 0 1 16-16Z" fill="#fffdf7" stroke="#a5b4b7" stroke-width="2"/>
-    <path d="M1314 145v27a8 8 0 0 0 8 8h27" stroke="#a5b4b7" stroke-width="2"/>
+    <rect x="1224" y="145" width="125" height="159" rx="16" fill="#fffdf7" stroke="#a5b4b7" stroke-width="2"/>
     <circle cx="1286" cy="232" r="35" fill="#9bbdcc" stroke="#648a9c" stroke-width="2"/>
     <path d="M1275 241q11 12 22 0" stroke="#182f3b" stroke-width="2.5"/>
   </g>
