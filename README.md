@@ -31,7 +31,7 @@ The demo uses synthetic data and a deterministic mock provider. CloakSpan is an 
 
 An open-source MCP and Home Assistant bridge that puts assistant replies on e-ink. Four companions, readable answers, and a little presence that stays on your desk after the chat window closes.
 
-**[Try the interactive demo →](https://heinrihs.org/dotsonpaper/#demo)** · [Build your own](https://github.com/heinrihs-s/dots-on-paper#quick-start) · [Explore the code](https://github.com/heinrihs-s/dots-on-paper)
+**[Try the interactive demo →](https://heinrihs.org/dotsonpaper/#demo)** · [Build your own](https://github.com/heinrihs-s/dots-on-paper#run-the-bridge) · [Explore the code](https://github.com/heinrihs-s/dots-on-paper)
 
 <details>
 <summary><b>Meet the dots: Artist, Curious, Bookish & Cool</b></summary>
