@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc" fill="none">
+<title id="title">Heinrihs Skrodelis — security research, useful tools</title>
+<desc id="desc">A control-room single-line diagram. Four feeders branch from a busbar: SCADA and ICS protocol research, AI privacy with Cloakspan, agent safety with SafetyBench, and assistant displays with Dots on Paper. Events cycle along the bottom line, including CVE-2026-62972.</desc>
+<defs><pattern id="g" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#18242a"/></pattern><filter id="b" x="-1" y="-1" width="3" height="3"><feGaussianBlur stdDeviation="9"/></filter><filter id="s" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="1.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>.d{font-family:Bahnschrift, 'DIN Alternate', 'DIN Condensed', 'Barlow Semi Condensed', 'Roboto Condensed', 'Arial Narrow', sans-serif}.m{font-family:'Cascadia Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace}.a{animation-duration:16.0s;animation-iteration-count:infinite;animation-timing-function:linear}@keyframes e0{0%{opacity:0} 5.619%{opacity:0} 6.375%{opacity:1} 22.812%{opacity:1} 24.938%{opacity:0} 100%{opacity:0}}.e0{opacity:0;animation-name:e0}@keyframes p0{0.000%{stroke-dashoffset:46;opacity:1} 5.625%{stroke-dashoffset:-232;opacity:1} 5.688%{stroke-dashoffset:-232;opacity:0} 100%{stroke-dashoffset:-232;opacity:0}}.p0{opacity:0;stroke-dasharray:46 432;animation-name:p0}@keyframes e1{0%{opacity:0} 30.619%{opacity:0} 31.375%{opacity:1} 47.812%{opacity:1} 49.938%{opacity:0} 100%{opacity:0}}.e1{opacity:0;animation-name:e1}@keyframes p1{0%{stroke-dashoffset:46;opacity:0} 25.000%{stroke-dashoffset:46;opacity:1} 30.625%{stroke-dashoffset:-520;opacity:1} 30.688%{stroke-dashoffset:-520;opacity:0} 100%{stroke-dashoffset:-520;opacity:0}}.p1{opacity:0;stroke-dasharray:46 720;animation-name:p1}@keyframes e2{0%{opacity:0} 55.619%{opacity:0} 56.375%{opacity:1} 72.812%{opacity:1} 74.938%{opacity:0} 100%{opacity:0}}.e2{opacity:0;animation-name:e2}@keyframes p2{0%{stroke-dashoffset:46;opacity:0} 50.000%{stroke-dashoffset:46;opacity:1} 55.625%{stroke-dashoffset:-766;opacity:1} 55.688%{stroke-dashoffset:-766;opacity:0} 100%{stroke-dashoffset:-766;opacity:0}}.p2{opacity:0;stroke-dasharray:46 966;animation-name:p2}@keyframes e3{0%{opacity:0} 80.619%{opacity:0} 81.375%{opacity:1} 97.812%{opacity:1} 99.938%{opacity:0} 100%{opacity:0}}.e3{opacity:0;animation-name:e3}@keyframes p3{0%{stroke-dashoffset:46;opacity:0} 75.000%{stroke-dashoffset:46;opacity:1} 80.625%{stroke-dashoffset:-1096;opacity:1} 80.688%{stroke-dashoffset:-1096;opacity:0} 100%{stroke-dashoffset:-1096;opacity:0}}.p3{opacity:0;stroke-dasharray:46 1296;animation-name:p3}@keyframes t0{0%{opacity:0} 5.619%{opacity:0} 6.375%{opacity:1} 22.812%{opacity:1} 24.938%{opacity:0} 100%{opacity:0}}.t0{opacity:1;animation-name:t0}@keyframes t1{0%{opacity:0} 30.619%{opacity:0} 31.375%{opacity:1} 47.812%{opacity:1} 49.938%{opacity:0} 100%{opacity:0}}.t1{opacity:0;animation-name:t1}@keyframes t2{0%{opacity:0} 55.619%{opacity:0} 56.375%{opacity:1} 72.812%{opacity:1} 74.938%{opacity:0} 100%{opacity:0}}.t2{opacity:0;animation-name:t2}@keyframes t3{0%{opacity:0} 80.619%{opacity:0} 81.375%{opacity:1} 97.812%{opacity:1} 99.938%{opacity:0} 100%{opacity:0}}.t3{opacity:0;animation-name:t3}@media (prefers-reduced-motion:reduce){.a{animation:none!important}}</style>
+<rect width="1280" height="420" rx="14" fill="#0c1317"/>
+<rect width="1280" height="420" rx="14" fill="url(#g)"/>
+<rect x=".5" y=".5" width="1279" height="419" rx="13.5" fill="none" stroke="#1e2a30"/>
+<path d="M0 44.5H1280" stroke="#1e2a30"/>
+<text class="m" x="48" y="28" font-size="12.5" letter-spacing="2.2" fill="#55676f">HS-01 · OVERVIEW</text>
+<text class="m" x="1232" y="28" font-size="12.5" letter-spacing="2.2" fill="#55676f" text-anchor="end">LATVIA · GRID <tspan fill="#8396a0">50.00</tspan> Hz</text>
+<text class="d" x="46" y="118" font-size="64" font-weight="700" letter-spacing="2" fill="#e7eef1">HEINRIHS SKRODELIS</text>
+<text class="d" x="49" y="154" font-size="22" letter-spacing=".4" fill="#8396a0">Security research. Useful tools.</text>
+<path d="M48 200H1232" stroke="#a9b8be" stroke-width="5"/>
+<path d="M48 188V212M1232 188V212" stroke="#a9b8be" stroke-width="3"/>
+<text class="m" x="48" y="178" font-size="11" letter-spacing="1.8" fill="#55676f">BUS A</text>
+<circle cx="208" cy="200" r="5.5" fill="#a9b8be"/>
+<path d="M208 200V230" stroke="#a9b8be" stroke-width="3"/>
+<rect x="197.0" y="230" width="22" height="22" fill="#a9b8be"/>
+<text class="m" x="188" y="246" font-size="12" letter-spacing="1" fill="#55676f" text-anchor="end">Q1</text>
+<path d="M208 252V272" stroke="#a9b8be" stroke-width="3"/>
+<circle cx="208" cy="292" r="19" fill="#0c1317" stroke="#a9b8be" stroke-width="2.5"/><path d="M198 296A11 11 0 0 1 218 296" fill="none" stroke="#a9b8be" stroke-width="2"/><path d="M208 299L216 284" stroke="#a9b8be" stroke-width="2.5" stroke-linecap="round"/>
+<text class="d" x="208" y="342" font-size="19" font-weight="600" letter-spacing="2.6" fill="#e7eef1" text-anchor="middle">SCADA · ICS</text>
+<text class="m" x="208" y="365" font-size="13" fill="#8396a0" text-anchor="middle">IEC-104 · BACnet · ENIP</text>
+<g class="a e0"><circle cx="208" cy="292" r="30" fill="#ffb224" opacity=".55" filter="url(#b)"/><circle cx="208" cy="292" r="19" fill="#0c1317" stroke="#ffb224" stroke-width="2.5"/><path d="M198 296A11 11 0 0 1 218 296" fill="none" stroke="#ffb224" stroke-width="2"/><path d="M208 299L216 284" stroke="#ffb224" stroke-width="2.5" stroke-linecap="round"/><text class="d" x="208" y="342" font-size="19" font-weight="600" letter-spacing="2.6" fill="#ffc45a" text-anchor="middle">SCADA · ICS</text></g>
+<path class="a p0" d="M48 200H208V272" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" filter="url(#s)"/>
+<circle cx="496" cy="200" r="5.5" fill="#a9b8be"/>
+<path d="M496 200V230" stroke="#a9b8be" stroke-width="3"/>
+<rect x="485.0" y="230" width="22" height="22" fill="#a9b8be"/>
+<text class="m" x="476" y="246" font-size="12" letter-spacing="1" fill="#55676f" text-anchor="end">Q2</text>
+<path d="M496 252V272" stroke="#a9b8be" stroke-width="3"/>
+<circle cx="496" cy="285" r="13" fill="#0c1317" stroke="#a9b8be" stroke-width="2.5"/><circle cx="496" cy="301" r="13" fill="#0c1317" fill-opacity=".6" stroke="#a9b8be" stroke-width="2.5"/>
+<text class="d" x="496" y="342" font-size="19" font-weight="600" letter-spacing="2.6" fill="#e7eef1" text-anchor="middle">AI PRIVACY</text>
+<text class="m" x="496" y="365" font-size="13" fill="#8396a0" text-anchor="middle">Cloakspan</text>
+<g class="a e1"><circle cx="496" cy="292" r="30" fill="#ffb224" opacity=".55" filter="url(#b)"/><circle cx="496" cy="285" r="13" fill="#0c1317" stroke="#ffb224" stroke-width="2.5"/><circle cx="496" cy="301" r="13" fill="#0c1317" fill-opacity=".6" stroke="#ffb224" stroke-width="2.5"/><text class="d" x="496" y="342" font-size="19" font-weight="600" letter-spacing="2.6" fill="#ffc45a" text-anchor="middle">AI PRIVACY</text></g>
+<path class="a p1" d="M48 200H496V272" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" filter="url(#s)"/>
+<circle cx="784" cy="200" r="5.5" fill="#a9b8be"/>
+<path d="M784 200V230" stroke="#a9b8be" stroke-width="3"/>
+<rect x="773.0" y="230" width="22" height="22" fill="#a9b8be"/>
+<text class="m" x="764" y="246" font-size="12" letter-spacing="1" fill="#55676f" text-anchor="end">Q3</text>
+<path d="M784 252V272" stroke="#a9b8be" stroke-width="3"/>
+<path d="M771 284H797L784 304Z" fill="#0c1317" stroke="#a9b8be" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M795.0 241.0H826" stroke="#435259" stroke-width="1.8" stroke-dasharray="4 4"/>
+<rect x="826" y="228" width="40" height="26" rx="3" fill="#0c1317" stroke="#a9b8be" stroke-width="2"/>
+<text class="m" x="846" y="246" font-size="13" font-weight="700" fill="#a9b8be" text-anchor="middle">86</text>
+<text class="d" x="784" y="342" font-size="19" font-weight="600" letter-spacing="2.6" fill="#e7eef1" text-anchor="middle">AGENT SAFETY</text>
+<text class="m" x="784" y="365" font-size="13" fill="#8396a0" text-anchor="middle">SafetyBench</text>
+<g class="a e2"><rect x="816" y="220" width="60" height="42" rx="8" fill="#ffb224" opacity=".55" filter="url(#b)"/><path d="M771 284H797L784 304Z" fill="#0c1317" stroke="#435259" stroke-width="2.5" stroke-linejoin="round"/><text class="d" x="784" y="342" font-size="19" font-weight="600" letter-spacing="2.6" fill="#ffc45a" text-anchor="middle">AGENT SAFETY</text><rect x="772.0" y="229" width="24" height="24" fill="#0c1317"/><rect x="774.25" y="231.25" width="19.5" height="19.5" fill="none" stroke="#ffb224" stroke-width="2.5"/><path d="M784 254V272" stroke="#0c1317" stroke-width="5"/><path d="M784 254V272" stroke="#435259" stroke-width="3" stroke-dasharray="3 5"/><path d="M795.0 241.0H826" stroke="#ffb224" stroke-width="1.8" stroke-dasharray="4 4"/><rect x="826" y="228" width="40" height="26" rx="3" fill="#ffb224"/><text class="m" x="846" y="246" font-size="13" font-weight="700" fill="#0c1317" text-anchor="middle">86</text></g>
+<path class="a p2" d="M48 200H784V230" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" filter="url(#s)"/>
+<circle cx="1072" cy="200" r="5.5" fill="#a9b8be"/>
+<path d="M1072 200V230" stroke="#a9b8be" stroke-width="3"/>
+<rect x="1061.0" y="230" width="22" height="22" fill="#a9b8be"/>
+<text class="m" x="1052" y="246" font-size="12" letter-spacing="1" fill="#55676f" text-anchor="end">Q4</text>
+<path d="M1072 252V272" stroke="#a9b8be" stroke-width="3"/>
+<circle cx="1072" cy="292" r="17" fill="#0c1317" stroke="#a9b8be" stroke-width="2.5"/><path d="M1060.0 280.0L1084.0 304.0M1084.0 280.0L1060.0 304.0" stroke="#a9b8be" stroke-width="2"/>
+<text class="d" x="1072" y="342" font-size="19" font-weight="600" letter-spacing="2.6" fill="#e7eef1" text-anchor="middle">DISPLAYS</text>
+<text class="m" x="1072" y="365" font-size="13" fill="#8396a0" text-anchor="middle">Dots on Paper</text>
+<g class="a e3"><circle cx="1072" cy="292" r="30" fill="#ffb224" opacity=".55" filter="url(#b)"/><circle cx="1072" cy="292" r="17" fill="#0c1317" stroke="#ffb224" stroke-width="2.5"/><path d="M1060.0 280.0L1084.0 304.0M1084.0 280.0L1060.0 304.0" stroke="#ffb224" stroke-width="2"/><circle cx="1072" cy="292" r="17" fill="#ffb224" opacity=".3"/><text class="d" x="1072" y="342" font-size="19" font-weight="600" letter-spacing="2.6" fill="#ffc45a" text-anchor="middle">DISPLAYS</text></g>
+<path class="a p3" d="M48 200H1072V272" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" filter="url(#s)"/>
+<path d="M48 383.5H1232" stroke="#1e2a30"/>
+<g class="a t0"><path d="M48 409L55 397L62 409Z" fill="#ffb224"/><text class="m" x="76" y="408" font-size="13.5" fill="#e7eef1" xml:space="preserve"><tspan fill="#55676f">Q1</tspan>  <tspan fill="#ffc45a" font-weight="700">VULN </tspan>  CVE-2026-62972 · BACnet Stack lighting decoder · out-of-bounds read · reported</text></g>
+<g class="a t1"><path d="M48 409L55 397L62 409Z" fill="#ffb224"/><text class="m" x="76" y="408" font-size="13.5" fill="#e7eef1" xml:space="preserve"><tspan fill="#55676f">Q2</tspan>  <tspan fill="#ffc45a" font-weight="700">TOKEN</tspan>  alex@example.com  →  &lt;EMAIL_ADDRESS:v1:7c1e…&gt;  · the original stays local</text></g>
+<g class="a t2"><path d="M48 409L55 397L62 409Z" fill="#ffb224"/><text class="m" x="76" y="408" font-size="13.5" fill="#e7eef1" xml:space="preserve"><tspan fill="#55676f">Q3</tspan>  <tspan fill="#ffc45a" font-weight="700">TRIP </tspan>  agent proposed an unsafe setpoint · the policy gate opened Q3</text></g>
+<g class="a t3"><path d="M48 409L55 397L62 409Z" fill="#ffb224"/><text class="m" x="76" y="408" font-size="13.5" fill="#e7eef1" xml:space="preserve"><tspan fill="#55676f">Q4</tspan>  <tspan fill="#ffc45a" font-weight="700">READY</tspan>  thinking… done · reply on the e-ink display</text></g>
+</svg>
