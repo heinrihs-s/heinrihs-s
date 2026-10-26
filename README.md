@@ -1,11 +1,3 @@
-<a href="https://heinrihs.org">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/profile-header-light.svg">
-    <img alt="Heinrihs Skrodelis — security research, useful tools. A control-room single-line diagram with feeders for SCADA/ICS research, AI privacy, agent safety and assistant displays." src="assets/profile-header-light.svg">
-  </picture>
-</a>
-
 I'm a cybersecurity researcher and builder in Latvia. I build privacy tools for AI, little interfaces with personality, and security research for industrial systems.
 
 [Website & CV](https://heinrihs.org) · [X / @heinrihs_s](https://x.com/heinrihs_s) · [LinkedIn](https://www.linkedin.com/in/heinrihs-s/) · [securIT](https://securit.lv) · **[Play with a dot →](https://heinrihs.org/dotsonpaper/#demo)**
